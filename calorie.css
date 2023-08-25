@@ -1,0 +1,97 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    margin-top: 150px;
+}
+.bold-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.input-field {
+            border: 4px solid #fff;
+            padding: 50px 90px; /* Adjust the padding as needed */
+            border-radius: 5px; /* Optional: To add rounded corners */
+            font-size: 16px; /* Optional: To adjust the font size */
+            background-color: transparent; /* Optional: To make the background transparent */
+            color: #fff; /* Optional: To change the text color */
+            outline: none; /* Optional: To remove the default focus outline */
+            margin-bottom: 10px; 
+            font-size: x-large;/* Optional: To add some space between input fields */
+        }
+.calculate-button {
+            background-color: grey;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+}
+
+
+.calculate-button:hover {
+            background-color: grey;
+}
+.input-field:focus {
+    border-color: #ccc; /* Optional: Change the border color on focus */
+}
+.bodyfattitle {
+    
+    margin-right: 250px;
+    text-align: left;
+    border: 4px solid #fff;
+    padding: 10px 50px; /* Adjust the padding as needed */
+    border-radius: 5px;
+}
+.fattableimage{
+    margin-right: 500px;
+}
+
+
+.top_bar{
+    position: fixed; /* keeps the top bar in a fixed position */
+    top: 0; /* sets the top bar to the top of the page */
+    left: 0; /* sets the top bar to the left of the page */
+    right: 0; /* sets the top bar to the right of the page */
+    height: 85px; /* sets the height of the top bar */
+    background-color: white; /* sets the background color of the top bar */
+    color: #fff; /* sets the text color of the top bar */
+    display: flex; /* makes the top bar elements to align horizontally */
+    justify-content: space-between; /* makes space between the elements in the top bar */
+    padding: 0px 10px;
+  }
+  
+
+  #fitself_logo {
+    width: 105px; /* set the width of the logo */
+    height: 80px; /* set the height of the logo */
+    right: 100px;
+    top: 10px;
+}
+
+body {
+    background-color: black;
+  }
+
+  #logo_text{
+    width:170px; /* set the width of the logo */
+    height: 60px;
+    margin-right: 1200px;
+    margin-top: 15px;
+}
+
+#result{
+    color: white;
+    margin-bottom: 10px;
+}

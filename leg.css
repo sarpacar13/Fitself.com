@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+  }
+
+  .top_bar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 85px;
+    background-color: white;
+    color: #000; /* change the text color to black */
+    display: flex;
+    justify-content: center; /* center the content horizontally */
+    align-items: center; /* center the content vertically */
+    padding: 0px 10px;
+  }
+
+  #title{
+    text-align: center;
+    right: 100px;
+    font-size: 20px;
+    color: black;
+  }
+
+.content{
+  color: white;
+  margin-top: 85px; /* add margin top to make room for the fixed top bar */
+  text-align: center;
+}
+
+#intro_to_page{
+  color: white;
+  margin-top: 100px; /* add margin top to make room for the fixed top bar */
+  text-align: center;
+  font-size: 25px;
+}
+
+#incline{
+  font-size: 25px;
+  
+}
+#incline_bench{
+  margin-right: 900px;
+  font-size: medium;
+  margin-top: 50px;
+
+}
+
+#incline_fly{
+  margin-right: 900px;
+  font-size: medium;
+  margin-top: 50px;
+
+}
+
+
