@@ -29,7 +29,7 @@ To get started with FitSelf.com, simply visit our website at [FitSelf.com](https
 
 ## Usage
 
-Detailed instructions on how to use the website and its features can be found on our [Documentation](https://www.fitself.com/documentation) page.
+Detailed instructions on how to use the website and its features can be found on our Github page.
 
 ## Contributing
 
